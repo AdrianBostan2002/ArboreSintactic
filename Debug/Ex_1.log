@@ -1,0 +1,7 @@
+﻿  Ex_1.cpp
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_1\Ex_1.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_1\Ex_1.cpp(174,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_1\Ex_1.cpp(185,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_1\Ex_1.cpp(36): warning C4715: 'precedenta': not all control paths return a value
+C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Ex_1\Ex_1.cpp(294): warning C4715: 'efectueaza_operatia': not all control paths return a value
+  Ex_1.vcxproj -> C:\Users\Adi\source\repos\Tema_4_Arbori_CoadaDePrioritate\Debug\Ex_1.exe
